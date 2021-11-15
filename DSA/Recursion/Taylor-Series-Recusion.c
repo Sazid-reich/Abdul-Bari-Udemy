@@ -15,6 +15,8 @@ double e(double x, double n)
 
 int main()
 {
-    printf("%lf\n", e(4, 10));
+    double a, b;
+    scanf("%lf%lf", &a, &b);
+    printf("%lf\n", e(a, b));
     return 0;
 }
