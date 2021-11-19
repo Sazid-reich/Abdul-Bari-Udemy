@@ -1,3 +1,5 @@
+//Add an element to certain index of an user defined array
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+//Display the elements of an User Defined Array
+
 #include <stdio.h>
 #include <stdlib.h>
 

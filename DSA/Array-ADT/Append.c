@@ -1,3 +1,5 @@
+//Add an element at the end of an array
+
 #include <stdio.h>
 
 struct array

@@ -1,3 +1,5 @@
+//WAP to print Factorial of a Number
+
 #include <stdio.h>
 
 int fact(int n)
