@@ -1,3 +1,5 @@
+//wap to to print the steps to move disks of tower of hanoi.
+
 #include <stdio.h>
 
 void TOH(int n, int a, int b, int c)

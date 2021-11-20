@@ -1,3 +1,5 @@
+//wap to find sum of n numbers using recursion.
+
 #include <stdio.h>
 
 int sum(int n)

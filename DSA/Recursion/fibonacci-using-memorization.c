@@ -1,3 +1,5 @@
+//wap to print the index of a fibonacci series.
+
 #include <stdio.h>
 
 int fib(int n)

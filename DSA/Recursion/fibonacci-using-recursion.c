@@ -1,3 +1,5 @@
+//wap to get the value of an index on fibonacci series by using recursion.
+
 #include <stdio.h>
 
 int fib(int n)

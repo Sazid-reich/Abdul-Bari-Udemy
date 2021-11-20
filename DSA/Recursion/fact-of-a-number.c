@@ -12,6 +12,9 @@ int fact(int n)
 
 int main()
 {
-    printf("%d\n", fact(5));
+    int num;
+    printf("Enter a number to get it's Factorial: ");
+    scanf("%d", &num);
+    printf("%d\n", fact(num));
     return 0;
 }

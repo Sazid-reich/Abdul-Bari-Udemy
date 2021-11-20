@@ -1,3 +1,5 @@
+//wap to find if a number is leap year or not.
+
 #include <iostream>
 using namespace std;
 

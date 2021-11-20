@@ -1,3 +1,5 @@
+//wap to find gcd of two number.
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//wap to get the salary after allowances and deducting.
+
 #include <iostream>
 using namespace std;
 

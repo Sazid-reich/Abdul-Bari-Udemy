@@ -1,3 +1,5 @@
+//wap to find the value of e with taylor series by uing recursion.
+
 #include <stdio.h>
 
 double e(double x, double n)

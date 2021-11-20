@@ -1,3 +1,5 @@
+//wap to get the value of an index of the fibonacci series.
+
 #include <stdio.h>
 int fib(int n)
 {

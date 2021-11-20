@@ -1,3 +1,5 @@
+//wap to get the value for nCr using pascels triangle.
+
 #include <stdio.h>
 
 int c(int n, int r)

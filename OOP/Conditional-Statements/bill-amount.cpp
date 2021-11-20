@@ -1,3 +1,5 @@
+//wap to get the bill amout after deducting the discount.
+
 #include <iostream>
 using namespace std;
 
